@@ -4,9 +4,9 @@ Investing in real estate is probably the largest sum of money most individuals a
 I'm myself in a position where possibility of being a home owner is moving ever closer. But as a data guy I couldn't possibly conform to the norm and not base such a decision of the data.
 
 The main questions I want to answer are:
+* How much does location matter?
 * Is it possible to predict listing prices based on characteristics of the home?
 * If so, what features are most important?
-* Which ones doesn't matter at all?
 
 This repo provides the code for:
 * Gathering data by web-scraping a large Danish real estate site
@@ -17,10 +17,10 @@ This repo provides the code for:
 * Data Wrangling: Jupyter Notebook with the code to web scrape the Danish Real Estate company "Home" for their listings and wrangling this data
 * Data Analysis: Jupyter Notebook for analysing the listing data
 * Data:
-* * base_data: The result of scraping the entire home database
-* * home_data: 
-* * home_data_clean:
-* * home_data_clean_final: 
+ * base_data: The result of scraping the entire home database
+ * home_data: 
+ * home_data_clean:
+ * home_data_clean_final: 
 
 ## Verisons and libraries
 Using the Anaconda distribution the following have been used:
