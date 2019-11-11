@@ -17,6 +17,7 @@ This repo provides the code for:
 Jupyter Notebooks:
 * Data Wrangling: Code for web-scraping the Danish Real Estate company "Home" for their listings and wrangling this data
 * Data Analysis: Analysing the listing data
+
 Data:
 * base_data: The result of scraping the entire home database
 * home_data: 
