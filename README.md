@@ -19,10 +19,10 @@ Jupyter Notebooks:
 * Data Analysis: Analysing the listing data
 
 Data:
-* base_data: The result of scraping the entire home database
-* home_data: 
-* home_data_clean:
-* home_data_clean_final: 
+* base_data: The result of scraping the entire Home database
+* home_data: The result of finding additional data for just the in house listings from Home
+* home_data_clean: First subresult of cleaning data - columns without information were dropped
+* home_data_clean_final: Final result of cleaning. Remaining columns were merged and additional were dropped.
 
 ## Verisons and libraries
 Using the Anaconda distribution the following have been used:
