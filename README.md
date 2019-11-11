@@ -25,12 +25,13 @@ This repo provides the code for:
 ## Verisons and libraries
 Using the Anaconda distribution the following have been used:
 * Python 3.7.3
-* pandas 0.24.2
-* request 2.21.0
+* Pandas 0.24.2
+* Request 2.21.0
 * Beautiful soup (bs4) 4.7.1
-* Sci-kit learn  
+* Scikit-learn  0.21.6
+* Seaborn 0.9.0
+* [Graphviz](https://www.graphviz.org/) 0.13.2 (note you need a standalone application as well)
 I haven't tested the code on any other version than the above.
-Use at your own risk.
 
 ## Miscancellous
 As always when using web scrapers, carefully think about the load you're putting on their servers. Consider if you can just use the data already gathered.
