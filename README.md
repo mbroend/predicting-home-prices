@@ -13,6 +13,8 @@ This repo provides the code for:
 * Wrangling said data to a tidy format
 * Using the data to create a machine learning model to predict listing prices
 
+The results are neatly summed up in [this](https://medium.com/@mathias.b.sorensen/the-truth-about-real-estate-listing-prices-35e1bc0f7ca1?sk=61d4f01a2934d9dd59f4b75651cac0eb) medium blogpost.
+
 ## Files
 Jupyter Notebooks:
 * Data Wrangling: Code for web-scraping the Danish Real Estate company "Home" for their listings and wrangling this data
